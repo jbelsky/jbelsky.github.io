@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Test markdown
-subtitle: Each post also has a subtitle
+title: Using markdown for writing posts
+subtitle: beautiful-jekyll provides a great tutorial
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [test]
+tags: [markdown, jekyll]
 comments: true
 ---
 
